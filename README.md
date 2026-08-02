@@ -15,7 +15,7 @@ Linuxシェルに**限界社畜SEお姉さん**が常駐します。
 - 🎨 **設定可能**（名前変更、限界度調整、深夜モードON/OFF
 インストール
 ```bash
-git clone https://github.com/yy-LocalLLM/genkai-oneesan-shell.git
+git clone https://github.com/yy-Local-LLM/genkai-oneesan-shell.git
 cd genkai-oneesan-shell
 ./install.sh
 source ~/.bashrc
